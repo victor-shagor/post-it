@@ -1,0 +1,57 @@
+nav{
+ background-color: rgb(51, 247, 51); 
+ color: white;
+ padding: 10px;
+ margin: 5px;
+ font-size: 20px;
+}
+
+ #container{
+  margin-left:30%;
+  margin-right:30%;
+  padding:10px;
+  border:20px;
+ }
+ #username{
+  width:50%;
+  padding: 5px;
+  text-align: center;
+  margin: 5px;
+ 
+ } 
+ #password{
+  width:50%;
+  padding: 5px;
+  text-align: center;
+  margin: 5px;
+ 
+ } 
+
+ #login{
+  background-color:  rgb(51, 247, 51);
+  color:white;
+  width:50%;
+  border:none;
+  margin: 10px;
+  padding: 5px;
+  text-align: center;
+  border-radius: 20px;
+ 
+ }
+ #login:hover{
+  background-color: lightgreen
+ }
+ #signUp{
+  background-color:  rgb(51, 247, 51);
+  color:white;
+  width:50%;
+  border:none;
+  margin: 2px;
+  padding: 5px;
+  text-align: center;
+  border-radius: 20px;
+ 
+ }
+ a:hover{
+  color: lightgreen
+ }
